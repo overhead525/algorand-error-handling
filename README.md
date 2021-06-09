@@ -4,6 +4,8 @@
 
 ### Link to Gitcoin Bounty: [Improve Error And Update Handling For Algorand Sandbox [$750]](https://gitcoin.co/issue/algorandfoundation/grow-algorand/30/100025839)
 
+### Link to Github Pages Site for this Repository: [Algorand Error Handling Git Bounty Proposal](https://overhead525.github.io/algorand-error-handling/)
+
 <br>
 
 <html>
