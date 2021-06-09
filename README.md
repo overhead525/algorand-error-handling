@@ -193,8 +193,8 @@ Here's how I plan to work on them:
 ## Questions I Have For You
 
 ## Discussions and PRs
-| Issue Number | Link to Issue | .. | .. | .. |
-|--------------|----|----|----|----|
-|              |    |    |    |    |
-|              |    |    |    |    |
-|              |    |    |    |    |
+| Issue | Link to Issue | .. | .. | .. |
+|-------|---------------|----|----|----|
+|       |               |    |    |    |
+|       |               |    |    |    |
+|       |               |    |    |    |
