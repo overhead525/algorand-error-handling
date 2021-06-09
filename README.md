@@ -191,10 +191,8 @@ Here's how I plan to work on them:
 
 
 ## Questions I Have For You
+...
 
 ## Discussions and PRs
-| Issue | Link to Issue | .. | .. | .. |
-|-------|---------------|----|----|----|
-|       |               |    |    |    |
-|       |               |    |    |    |
-|       |               |    |    |    |
+...
+
