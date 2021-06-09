@@ -22,7 +22,9 @@
 
 [Abstract](#abstract)\
 [Work Plan](#work-plan)\
-[Questions I Have For You](#questions-i-have-for-you)
+[Questions I Have For You](#questions-i-have-for-you)\
+[About Me](#about-me)\
+[Discussion and PRs](#discussions-and-prs)
 
 <br>
 
@@ -189,8 +191,15 @@ Here's how I plan to work on them:
   </body>
 </html>
 
+## About Me
+**My Local Setup:** Windows running WSL2 (Ubuntu 18.04 LTS)
+
+&emsp;I understand that you want the solution tested on Ubuntu 20.04 and MacOSX as well, so I'll spin up
+a couple of docker instances to test those operating systems.
 
 ## Questions I Have For You
+[**Question 1:**](https://github.com/overhead525/algorand-error-handling/issues/1) In the bounty description, you mentioned that the `README.md` file in the `algorand/sandbox` repository needed to be update. That's cool. But you also mentioned the phrase *other user-facing documentation*. Is this documentation in another repository? I could use some help identifying where I need to change things. It would save some time.
+
 ...
 
 ## Discussions and PRs
