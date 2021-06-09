@@ -2,6 +2,7 @@
 
 <html>
   <head>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
     <script
       type="text/javascript"
       src="https://www.gstatic.com/charts/loader.js"
@@ -85,6 +86,7 @@
     </script>
   </head>
   <body>
+    <h1>Algorand Error Handling Proposal</h1>
     <div id="chart_div"></div>
   </body>
 </html>
