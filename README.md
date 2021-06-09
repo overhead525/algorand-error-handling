@@ -9,7 +9,6 @@
 <html>
   <style>
     img.logo {
-      filter: invert(1);
       margin-bottom: 1rem;
     }
   </style>
@@ -50,6 +49,11 @@ Here's how I plan to work on them:
 
 <html>
   <head>
+    <style>
+      text {
+        font-family: sans-serif !important;
+      }
+    </style>
     <script
       type="text/javascript"
       src="https://www.gstatic.com/charts/loader.js"
